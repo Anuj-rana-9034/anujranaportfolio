@@ -3,7 +3,7 @@
 const Aboutme = () => {
   return (
     <>
-    <div className="bg-black sm:pb-0 pb-10 text-white sm:h-96 px-10 sm:flex justify-between" >
+    <div id="Aboutme" className="bg-black sm:pb-0 pb-10 text-white sm:h-96 px-10 sm:flex justify-between" >
       <div className="sm:block hidden">
         <img src="img7.png" alt=""  className="h-72 shadow-2xl shadow-[#F7F779] border-2 m-20 border-[#F7F779]  mx-auto  object-cover rounded-full w-72"/>
       </div>
